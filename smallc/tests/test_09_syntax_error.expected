@@ -1,0 +1,6 @@
+Syntax errors found. Use CHECK for details.
+
+CHECK:
+Error at line 5: Expected RBRACKET, got ';'
+Error at line 7: Unexpected token in expression: '}'
+2 error(s) found.
